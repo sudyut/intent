@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#D98DE6"
+    android:background="#e67e22"
     tools:context=".Second">
 
     <TextView
@@ -32,8 +32,8 @@
         android:id="@+id/b2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="34dp"
-        android:layout_marginBottom="223dp"
+        android:layout_marginStart="160dp"
+        android:layout_marginBottom="236dp"
         android:onClick="change"
         android:text="Button"
         app:layout_constraintBottom_toBottomOf="parent"
